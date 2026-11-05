@@ -1,6 +1,9 @@
 # Compiled Java files
 /bin/
 *.class
+.settings/
+.classpath
+.project
 
 # Eclipse temporary files
 *.tmp
