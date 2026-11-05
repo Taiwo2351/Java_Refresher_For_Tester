@@ -26,7 +26,6 @@ public class Java_Constructor {
 		System.out.println(name + " "+ "is" + " "+ status + " " + "and he is" + " "+ age + "years old");
 	}
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Java_Constructor jvc = new Java_Constructor();
 		Java_Constructor jvc1 = new Java_Constructor(40, "Johnson", "Married");
 		jvc.display();
