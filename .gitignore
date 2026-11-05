@@ -1,0 +1,12 @@
+# Compiled Java files
+/bin/
+*.class
+
+# Eclipse temporary files
+*.tmp
+*.bak
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
